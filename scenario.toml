@@ -3,9 +3,8 @@ agentbeats_id = "019bbf59-e9cb-76c1-a46c-a715b169d6af"
 env = {OPENAI_API_KEY = "${OPENAI_API_KEY}"}
 
 [[participants]]
-role = "agent"
 agentbeats_id = "019bbf5a-b6f6-7721-80f5-744c2ead3f09"
-name = "purple"
+name = "agent"
 env = { TAVILY_API_KEY = "$ {TAVILY_API_KEY}", OPENAI_API_KEY = "${OPENAI_API_KEY}", ALPHAVANTAGE_API_KEY = "${ALPHA_VANTAGE_API_KEY}", LOG_LEVEL = "INFO" }
 
 [config]
