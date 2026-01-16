@@ -1,0 +1,65 @@
+{
+  "participants": {
+    "agent": "019bbf5a-b6f6-7721-80f5-744c2ead3f09"
+  },
+  "results": [
+    {
+      "date": "2025-12-22",
+      "pnl_date": "2025-12-23",
+      "total_pnl": 0.003981602646403728,
+      "avg_return": 0.006723452482848284,
+      "hit_rate": 0.8,
+      "gross_exposure": 1.0,
+      "net_exposure": -4.996003610813204e-16,
+      "sharpe": 0.4793461288843178,
+      "missing_prices": 0,
+      "rows": [
+        {
+          "ticker": "MSFT",
+          "weight": 0.2582417582417581,
+          "position": "long",
+          "return": 0.003980037944403214,
+          "pnl": 0.0010278119966315986,
+          "price_prev": 484.92,
+          "price_curr": 486.85
+        },
+        {
+          "ticker": "AMZN",
+          "weight": 0.20829170829170823,
+          "position": "long",
+          "return": 0.016241299303944225,
+          "pnl": 0.0033829279768954742,
+          "price_prev": 228.43,
+          "price_curr": 232.14
+        },
+        {
+          "ticker": "GOOGL",
+          "weight": 0.03346653346653339,
+          "position": "long",
+          "return": 0.014752404932532928,
+          "pnl": 0.0004937118533864654,
+          "price_prev": 309.78,
+          "price_curr": 314.35
+        },
+        {
+          "ticker": "TSLA",
+          "weight": -0.14135864135864146,
+          "position": "short",
+          "return": -0.006486198923741158,
+          "pnl": 0.0009168802674419325,
+          "price_prev": 488.73,
+          "price_curr": 485.56
+        },
+        {
+          "ticker": "AAPL",
+          "weight": -0.35864135864135877,
+          "position": "short",
+          "return": 0.005129719157102211,
+          "pnl": -0.0018397294479517426,
+          "price_prev": 270.97,
+          "price_curr": 272.36
+        }
+      ]
+    }
+  ]
+}
