@@ -1,0 +1,70 @@
+{
+  "participants": {
+    "agent": "019bbf5a-b6f6-7721-80f5-744c2ead3f09"
+  },
+  "results": [
+    {
+      "date": "2025-12-22",
+      "pnl_date": "2025-12-23",
+      "total_pnl": 0.0,
+      "avg_return": 0.0,
+      "hit_rate": 0.0,
+      "gross_exposure": 1.0,
+      "net_exposure": -2.220446049250313e-16,
+      "sharpe": 0.0,
+      "missing_prices": 5,
+      "rows": [
+        {
+          "ticker": "AAPL",
+          "weight": 0.36986301369863006,
+          "position": "long",
+          "return": 0.0,
+          "pnl": 0.0,
+          "price_prev": null,
+          "price_curr": null,
+          "note": "missing price"
+        },
+        {
+          "ticker": "MSFT",
+          "weight": 0.13013698630136986,
+          "position": "long",
+          "return": 0.0,
+          "pnl": 0.0,
+          "price_prev": null,
+          "price_curr": null,
+          "note": "missing price"
+        },
+        {
+          "ticker": "AMZN",
+          "weight": -0.1438356164383562,
+          "position": "short",
+          "return": 0.0,
+          "pnl": 0.0,
+          "price_prev": null,
+          "price_curr": null,
+          "note": "missing price"
+        },
+        {
+          "ticker": "GOOGL",
+          "weight": -0.17808219178082196,
+          "position": "short",
+          "return": 0.0,
+          "pnl": 0.0,
+          "price_prev": null,
+          "price_curr": null,
+          "note": "missing price"
+        },
+        {
+          "ticker": "TSLA",
+          "weight": -0.17808219178082196,
+          "position": "short",
+          "return": 0.0,
+          "pnl": 0.0,
+          "price_prev": null,
+          "price_curr": null,
+          "note": "missing price"
+        }
+      ]
+    }
+  ]
+}
